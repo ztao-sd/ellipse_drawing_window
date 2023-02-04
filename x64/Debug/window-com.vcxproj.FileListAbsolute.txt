@@ -1,0 +1,3 @@
+C:\Users\Tao\LocalRepos\window-com\x64\Debug\window-com.exe
+C:\Users\Tao\LocalRepos\drawing-window\x64\Debug\window-com.exe
+C:\Users\Tao\LocalRepos\ellipse_drawing_window\x64\Debug\win-ellipse.exe

@@ -1,0 +1,8 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (window-com.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  drawing_window.cpp
+C:\Users\Tao\LocalRepos\ellipse_drawing_window\drawing_window.cpp(436,49): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Tao\LocalRepos\ellipse_drawing_window\drawing_window.cpp(436,17): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+C:\Users\Tao\LocalRepos\ellipse_drawing_window\drawing_window.cpp(437,49): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Tao\LocalRepos\ellipse_drawing_window\drawing_window.cpp(437,17): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+C:\Users\Tao\LocalRepos\ellipse_drawing_window\drawing_window.cpp(185): warning C4715: 'DrawingWindow::HandleMessage': not all control paths return a value
+  window-com.vcxproj -> C:\Users\Tao\LocalRepos\ellipse_drawing_window\x64\Debug\win-ellipse.exe
